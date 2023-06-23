@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_dJPfxE1aqcAac3tnSzsmqzMqk2LM",
+  "orgId": "9nyRx5OSk8nO5MYLCHIX7ubk",
+  "settings": {
+    "createdAt": 1687517439824,
+    "framework": null,
+    "devCommand": "pnpm dev",
+    "installCommand": "pnpm install",
+    "buildCommand": "pnpm build",
+    "outputDirectory": "dist",
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "18.x"
+  }
+}
